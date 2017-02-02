@@ -4,7 +4,7 @@
 This is the source code for my Github page. 
 
 
-[Contact me:][1]
+[Contact me][1]
 
 
 
